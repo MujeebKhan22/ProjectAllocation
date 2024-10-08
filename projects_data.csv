@@ -1,0 +1,501 @@
+Project ID,Project Title,Domain,Minimum Performance Requirement,Project Rating (1-5)
+2001,Project_1,Networking,79,1
+2002,Project_2,Web Dev,77,2
+2003,Project_3,AI,83,2
+2004,Project_4,Web Dev,72,5
+2005,Project_5,Networking,82,4
+2006,Project_6,IoT,69,1
+2007,Project_7,Data Science,85,1
+2008,Project_8,Data Science,71,1
+2009,Project_9,Networking,69,5
+2010,Project_10,Web Dev,89,5
+2011,Project_11,AI,83,4
+2012,Project_12,Web Dev,89,1
+2013,Project_13,Web Dev,81,1
+2014,Project_14,AI,83,4
+2015,Project_15,Data Science,68,4
+2016,Project_16,Web Dev,86,4
+2017,Project_17,IoT,88,2
+2018,Project_18,IoT,71,4
+2019,Project_19,Networking,88,3
+2020,Project_20,Networking,86,5
+2021,Project_21,AI,70,4
+2022,Project_22,AI,78,2
+2023,Project_23,Networking,86,3
+2024,Project_24,Web Dev,83,2
+2025,Project_25,Data Science,84,2
+2026,Project_26,IoT,75,2
+2027,Project_27,AI,86,2
+2028,Project_28,Networking,71,1
+2029,Project_29,IoT,67,5
+2030,Project_30,AI,84,1
+2031,Project_31,AI,86,3
+2032,Project_32,Web Dev,81,1
+2033,Project_33,AI,75,3
+2034,Project_34,Data Science,79,4
+2035,Project_35,AI,71,3
+2036,Project_36,Data Science,79,1
+2037,Project_37,Web Dev,81,1
+2038,Project_38,Data Science,75,3
+2039,Project_39,IoT,76,1
+2040,Project_40,AI,77,3
+2041,Project_41,Networking,75,2
+2042,Project_42,Networking,75,5
+2043,Project_43,Data Science,89,3
+2044,Project_44,Web Dev,73,2
+2045,Project_45,Data Science,75,2
+2046,Project_46,Data Science,89,2
+2047,Project_47,Data Science,68,2
+2048,Project_48,IoT,66,3
+2049,Project_49,IoT,87,1
+2050,Project_50,Data Science,68,2
+2051,Project_51,Web Dev,78,4
+2052,Project_52,AI,69,2
+2053,Project_53,Networking,81,1
+2054,Project_54,IoT,76,1
+2055,Project_55,AI,70,5
+2056,Project_56,IoT,76,5
+2057,Project_57,IoT,79,2
+2058,Project_58,IoT,87,2
+2059,Project_59,Data Science,83,5
+2060,Project_60,Data Science,74,2
+2061,Project_61,IoT,66,4
+2062,Project_62,IoT,76,3
+2063,Project_63,Networking,76,5
+2064,Project_64,AI,71,5
+2065,Project_65,AI,65,1
+2066,Project_66,Web Dev,82,2
+2067,Project_67,Web Dev,67,5
+2068,Project_68,Web Dev,84,5
+2069,Project_69,Data Science,69,4
+2070,Project_70,Data Science,84,2
+2071,Project_71,Networking,79,3
+2072,Project_72,Data Science,74,4
+2073,Project_73,Web Dev,83,3
+2074,Project_74,IoT,65,1
+2075,Project_75,Web Dev,71,5
+2076,Project_76,Networking,86,4
+2077,Project_77,IoT,82,3
+2078,Project_78,Data Science,66,2
+2079,Project_79,IoT,83,1
+2080,Project_80,Networking,88,1
+2081,Project_81,Data Science,88,5
+2082,Project_82,AI,74,5
+2083,Project_83,Web Dev,79,3
+2084,Project_84,Web Dev,74,3
+2085,Project_85,Networking,74,1
+2086,Project_86,Networking,76,3
+2087,Project_87,Web Dev,72,5
+2088,Project_88,IoT,87,1
+2089,Project_89,AI,78,1
+2090,Project_90,AI,66,2
+2091,Project_91,Networking,81,2
+2092,Project_92,Networking,70,3
+2093,Project_93,IoT,72,3
+2094,Project_94,Networking,65,5
+2095,Project_95,AI,67,5
+2096,Project_96,Web Dev,79,2
+2097,Project_97,AI,81,1
+2098,Project_98,IoT,89,4
+2099,Project_99,Web Dev,71,4
+2100,Project_100,Web Dev,78,3
+2101,Project_101,AI,88,4
+2102,Project_102,Web Dev,89,4
+2103,Project_103,Web Dev,67,2
+2104,Project_104,Networking,82,1
+2105,Project_105,Web Dev,86,5
+2106,Project_106,IoT,69,2
+2107,Project_107,Web Dev,84,5
+2108,Project_108,Networking,86,2
+2109,Project_109,Data Science,79,2
+2110,Project_110,Data Science,70,4
+2111,Project_111,IoT,67,5
+2112,Project_112,IoT,82,2
+2113,Project_113,Web Dev,89,4
+2114,Project_114,Web Dev,88,3
+2115,Project_115,Data Science,84,5
+2116,Project_116,Data Science,86,2
+2117,Project_117,AI,67,3
+2118,Project_118,Data Science,72,4
+2119,Project_119,Data Science,83,2
+2120,Project_120,IoT,82,4
+2121,Project_121,AI,79,4
+2122,Project_122,AI,87,4
+2123,Project_123,Web Dev,78,5
+2124,Project_124,Web Dev,80,3
+2125,Project_125,AI,67,3
+2126,Project_126,AI,89,1
+2127,Project_127,Web Dev,79,2
+2128,Project_128,IoT,83,4
+2129,Project_129,IoT,72,2
+2130,Project_130,IoT,66,3
+2131,Project_131,IoT,89,3
+2132,Project_132,Web Dev,81,4
+2133,Project_133,Networking,76,5
+2134,Project_134,Data Science,83,4
+2135,Project_135,Data Science,75,4
+2136,Project_136,Data Science,82,1
+2137,Project_137,Data Science,77,5
+2138,Project_138,Web Dev,78,2
+2139,Project_139,Networking,76,5
+2140,Project_140,Web Dev,79,4
+2141,Project_141,Networking,87,4
+2142,Project_142,Web Dev,85,4
+2143,Project_143,AI,72,4
+2144,Project_144,Networking,66,4
+2145,Project_145,Data Science,72,5
+2146,Project_146,Networking,87,4
+2147,Project_147,IoT,69,3
+2148,Project_148,Networking,66,3
+2149,Project_149,IoT,74,1
+2150,Project_150,IoT,87,2
+2151,Project_151,AI,74,3
+2152,Project_152,Networking,68,1
+2153,Project_153,AI,68,5
+2154,Project_154,Data Science,72,2
+2155,Project_155,Networking,70,4
+2156,Project_156,Web Dev,89,4
+2157,Project_157,Web Dev,79,5
+2158,Project_158,Web Dev,82,2
+2159,Project_159,IoT,85,3
+2160,Project_160,Web Dev,86,2
+2161,Project_161,Data Science,72,1
+2162,Project_162,Networking,84,5
+2163,Project_163,Networking,71,3
+2164,Project_164,IoT,87,2
+2165,Project_165,IoT,84,2
+2166,Project_166,IoT,81,3
+2167,Project_167,Data Science,83,1
+2168,Project_168,Networking,66,1
+2169,Project_169,AI,76,2
+2170,Project_170,IoT,83,4
+2171,Project_171,Web Dev,69,3
+2172,Project_172,AI,76,1
+2173,Project_173,AI,81,1
+2174,Project_174,IoT,69,1
+2175,Project_175,Web Dev,66,5
+2176,Project_176,IoT,68,4
+2177,Project_177,IoT,70,1
+2178,Project_178,Web Dev,73,4
+2179,Project_179,AI,86,2
+2180,Project_180,AI,74,2
+2181,Project_181,Web Dev,75,5
+2182,Project_182,AI,66,4
+2183,Project_183,Data Science,88,3
+2184,Project_184,IoT,85,5
+2185,Project_185,Data Science,89,1
+2186,Project_186,Data Science,73,2
+2187,Project_187,Data Science,84,2
+2188,Project_188,Networking,81,3
+2189,Project_189,Networking,73,5
+2190,Project_190,Data Science,89,4
+2191,Project_191,IoT,72,2
+2192,Project_192,Data Science,69,1
+2193,Project_193,Data Science,69,3
+2194,Project_194,Networking,70,3
+2195,Project_195,Data Science,80,3
+2196,Project_196,IoT,65,1
+2197,Project_197,IoT,73,3
+2198,Project_198,Data Science,85,4
+2199,Project_199,IoT,71,4
+2200,Project_200,Data Science,75,5
+2201,Project_201,Networking,79,5
+2202,Project_202,Data Science,88,4
+2203,Project_203,AI,69,1
+2204,Project_204,Networking,83,5
+2205,Project_205,IoT,70,3
+2206,Project_206,IoT,87,4
+2207,Project_207,Networking,78,2
+2208,Project_208,AI,84,1
+2209,Project_209,Networking,89,1
+2210,Project_210,Web Dev,78,4
+2211,Project_211,AI,75,2
+2212,Project_212,Networking,68,1
+2213,Project_213,Web Dev,74,5
+2214,Project_214,Data Science,66,2
+2215,Project_215,AI,89,3
+2216,Project_216,Data Science,68,5
+2217,Project_217,Web Dev,84,2
+2218,Project_218,IoT,74,4
+2219,Project_219,IoT,65,1
+2220,Project_220,IoT,78,5
+2221,Project_221,Data Science,82,4
+2222,Project_222,AI,76,2
+2223,Project_223,Data Science,83,3
+2224,Project_224,Data Science,87,1
+2225,Project_225,IoT,76,1
+2226,Project_226,Data Science,89,5
+2227,Project_227,Web Dev,69,4
+2228,Project_228,Networking,68,2
+2229,Project_229,Networking,77,2
+2230,Project_230,Networking,82,4
+2231,Project_231,IoT,76,1
+2232,Project_232,IoT,80,4
+2233,Project_233,Networking,87,2
+2234,Project_234,AI,70,4
+2235,Project_235,Networking,71,1
+2236,Project_236,Data Science,88,5
+2237,Project_237,Networking,73,1
+2238,Project_238,Networking,74,3
+2239,Project_239,AI,69,3
+2240,Project_240,IoT,85,4
+2241,Project_241,IoT,68,1
+2242,Project_242,Data Science,75,1
+2243,Project_243,Networking,83,2
+2244,Project_244,Web Dev,71,5
+2245,Project_245,Data Science,77,1
+2246,Project_246,IoT,77,4
+2247,Project_247,AI,85,2
+2248,Project_248,IoT,87,2
+2249,Project_249,IoT,82,4
+2250,Project_250,AI,89,4
+2251,Project_251,Networking,89,1
+2252,Project_252,Networking,73,1
+2253,Project_253,IoT,77,2
+2254,Project_254,Data Science,77,2
+2255,Project_255,Web Dev,69,5
+2256,Project_256,Data Science,76,2
+2257,Project_257,Data Science,89,4
+2258,Project_258,IoT,65,4
+2259,Project_259,IoT,82,5
+2260,Project_260,Web Dev,85,3
+2261,Project_261,Web Dev,85,3
+2262,Project_262,Web Dev,86,4
+2263,Project_263,IoT,88,3
+2264,Project_264,IoT,81,3
+2265,Project_265,Data Science,74,5
+2266,Project_266,IoT,73,2
+2267,Project_267,Networking,84,2
+2268,Project_268,Networking,72,3
+2269,Project_269,Web Dev,79,1
+2270,Project_270,IoT,77,5
+2271,Project_271,Networking,85,3
+2272,Project_272,Data Science,81,1
+2273,Project_273,AI,73,1
+2274,Project_274,Data Science,88,5
+2275,Project_275,AI,85,2
+2276,Project_276,Data Science,75,4
+2277,Project_277,Networking,68,1
+2278,Project_278,IoT,88,4
+2279,Project_279,AI,89,4
+2280,Project_280,IoT,71,5
+2281,Project_281,IoT,84,2
+2282,Project_282,Networking,87,5
+2283,Project_283,Web Dev,86,1
+2284,Project_284,Web Dev,67,2
+2285,Project_285,AI,74,3
+2286,Project_286,Networking,67,2
+2287,Project_287,IoT,65,5
+2288,Project_288,Data Science,78,5
+2289,Project_289,Data Science,77,4
+2290,Project_290,AI,69,3
+2291,Project_291,AI,72,2
+2292,Project_292,AI,76,3
+2293,Project_293,Networking,70,4
+2294,Project_294,Data Science,88,3
+2295,Project_295,Networking,87,3
+2296,Project_296,Networking,66,2
+2297,Project_297,IoT,88,3
+2298,Project_298,Networking,68,4
+2299,Project_299,Networking,69,1
+2300,Project_300,IoT,75,1
+2301,Project_301,Web Dev,77,5
+2302,Project_302,IoT,72,1
+2303,Project_303,AI,85,2
+2304,Project_304,Web Dev,69,5
+2305,Project_305,Data Science,70,1
+2306,Project_306,Networking,79,1
+2307,Project_307,Web Dev,87,5
+2308,Project_308,Data Science,89,2
+2309,Project_309,IoT,80,5
+2310,Project_310,IoT,75,2
+2311,Project_311,AI,71,2
+2312,Project_312,AI,70,4
+2313,Project_313,Web Dev,76,1
+2314,Project_314,Networking,68,1
+2315,Project_315,IoT,78,3
+2316,Project_316,Web Dev,75,5
+2317,Project_317,Web Dev,76,4
+2318,Project_318,Web Dev,66,1
+2319,Project_319,AI,75,3
+2320,Project_320,IoT,77,4
+2321,Project_321,AI,75,2
+2322,Project_322,AI,73,1
+2323,Project_323,Web Dev,85,5
+2324,Project_324,Data Science,80,4
+2325,Project_325,Data Science,69,3
+2326,Project_326,Data Science,76,5
+2327,Project_327,Web Dev,67,2
+2328,Project_328,Networking,80,5
+2329,Project_329,IoT,83,3
+2330,Project_330,Web Dev,81,2
+2331,Project_331,Web Dev,75,3
+2332,Project_332,AI,85,1
+2333,Project_333,Data Science,83,3
+2334,Project_334,Web Dev,82,5
+2335,Project_335,Networking,73,1
+2336,Project_336,IoT,77,1
+2337,Project_337,Networking,70,4
+2338,Project_338,Web Dev,67,5
+2339,Project_339,Web Dev,87,5
+2340,Project_340,AI,76,2
+2341,Project_341,Networking,73,3
+2342,Project_342,AI,73,3
+2343,Project_343,Networking,79,5
+2344,Project_344,Data Science,65,3
+2345,Project_345,Data Science,82,5
+2346,Project_346,Networking,79,1
+2347,Project_347,AI,72,3
+2348,Project_348,Data Science,75,3
+2349,Project_349,Web Dev,81,5
+2350,Project_350,IoT,78,5
+2351,Project_351,AI,83,2
+2352,Project_352,Networking,87,3
+2353,Project_353,IoT,88,4
+2354,Project_354,IoT,69,5
+2355,Project_355,Web Dev,66,4
+2356,Project_356,AI,79,1
+2357,Project_357,IoT,83,1
+2358,Project_358,AI,89,4
+2359,Project_359,Web Dev,80,1
+2360,Project_360,Networking,77,4
+2361,Project_361,IoT,71,2
+2362,Project_362,IoT,81,2
+2363,Project_363,IoT,83,1
+2364,Project_364,AI,89,4
+2365,Project_365,IoT,71,4
+2366,Project_366,AI,76,4
+2367,Project_367,Data Science,77,1
+2368,Project_368,Data Science,77,4
+2369,Project_369,AI,78,5
+2370,Project_370,Data Science,79,4
+2371,Project_371,Web Dev,66,5
+2372,Project_372,Web Dev,70,2
+2373,Project_373,Data Science,73,5
+2374,Project_374,Networking,79,2
+2375,Project_375,AI,84,1
+2376,Project_376,Data Science,80,2
+2377,Project_377,AI,66,2
+2378,Project_378,Data Science,67,4
+2379,Project_379,Web Dev,87,3
+2380,Project_380,Networking,84,2
+2381,Project_381,AI,87,5
+2382,Project_382,Networking,85,1
+2383,Project_383,Web Dev,72,5
+2384,Project_384,IoT,72,1
+2385,Project_385,IoT,85,5
+2386,Project_386,AI,71,2
+2387,Project_387,Web Dev,75,3
+2388,Project_388,AI,86,2
+2389,Project_389,AI,77,4
+2390,Project_390,AI,72,5
+2391,Project_391,Networking,73,3
+2392,Project_392,Data Science,80,5
+2393,Project_393,Web Dev,69,4
+2394,Project_394,Networking,87,4
+2395,Project_395,Data Science,78,4
+2396,Project_396,AI,65,2
+2397,Project_397,IoT,88,2
+2398,Project_398,Networking,83,3
+2399,Project_399,Web Dev,81,4
+2400,Project_400,Web Dev,86,2
+2401,Project_401,Data Science,78,1
+2402,Project_402,Networking,77,1
+2403,Project_403,AI,72,2
+2404,Project_404,Data Science,67,3
+2405,Project_405,Web Dev,65,5
+2406,Project_406,Networking,83,4
+2407,Project_407,IoT,79,2
+2408,Project_408,AI,85,3
+2409,Project_409,Web Dev,72,5
+2410,Project_410,Networking,73,3
+2411,Project_411,IoT,77,5
+2412,Project_412,Web Dev,76,1
+2413,Project_413,IoT,73,5
+2414,Project_414,Web Dev,84,1
+2415,Project_415,Data Science,88,4
+2416,Project_416,Data Science,75,2
+2417,Project_417,Data Science,69,1
+2418,Project_418,Networking,83,3
+2419,Project_419,Data Science,85,5
+2420,Project_420,Networking,82,3
+2421,Project_421,AI,75,1
+2422,Project_422,Data Science,75,3
+2423,Project_423,Networking,70,5
+2424,Project_424,Web Dev,65,2
+2425,Project_425,Networking,86,3
+2426,Project_426,Networking,85,4
+2427,Project_427,Web Dev,73,5
+2428,Project_428,Networking,71,5
+2429,Project_429,Web Dev,70,4
+2430,Project_430,IoT,87,1
+2431,Project_431,Data Science,74,4
+2432,Project_432,AI,69,1
+2433,Project_433,Networking,65,2
+2434,Project_434,Web Dev,79,1
+2435,Project_435,Data Science,89,2
+2436,Project_436,Networking,69,2
+2437,Project_437,Data Science,84,4
+2438,Project_438,IoT,70,2
+2439,Project_439,Networking,69,1
+2440,Project_440,Web Dev,81,3
+2441,Project_441,IoT,82,5
+2442,Project_442,Networking,68,5
+2443,Project_443,Data Science,88,1
+2444,Project_444,IoT,85,3
+2445,Project_445,Web Dev,87,2
+2446,Project_446,Networking,66,1
+2447,Project_447,Data Science,72,2
+2448,Project_448,Data Science,69,4
+2449,Project_449,IoT,68,3
+2450,Project_450,Networking,89,5
+2451,Project_451,Data Science,86,1
+2452,Project_452,IoT,78,5
+2453,Project_453,AI,68,2
+2454,Project_454,Data Science,72,2
+2455,Project_455,IoT,67,4
+2456,Project_456,AI,78,2
+2457,Project_457,IoT,82,2
+2458,Project_458,Data Science,87,5
+2459,Project_459,AI,76,5
+2460,Project_460,IoT,79,1
+2461,Project_461,Networking,84,1
+2462,Project_462,AI,84,2
+2463,Project_463,IoT,73,3
+2464,Project_464,Networking,66,1
+2465,Project_465,AI,65,2
+2466,Project_466,IoT,79,5
+2467,Project_467,Data Science,87,4
+2468,Project_468,AI,79,5
+2469,Project_469,AI,72,5
+2470,Project_470,Networking,67,4
+2471,Project_471,IoT,66,5
+2472,Project_472,Data Science,68,1
+2473,Project_473,Networking,82,5
+2474,Project_474,AI,76,4
+2475,Project_475,Networking,82,2
+2476,Project_476,Networking,85,2
+2477,Project_477,Networking,74,2
+2478,Project_478,AI,85,4
+2479,Project_479,Web Dev,72,4
+2480,Project_480,Networking,89,1
+2481,Project_481,Web Dev,82,4
+2482,Project_482,Data Science,81,2
+2483,Project_483,Data Science,83,4
+2484,Project_484,Data Science,70,3
+2485,Project_485,IoT,78,5
+2486,Project_486,AI,69,1
+2487,Project_487,Web Dev,72,2
+2488,Project_488,IoT,72,2
+2489,Project_489,Web Dev,82,3
+2490,Project_490,AI,73,1
+2491,Project_491,Networking,78,5
+2492,Project_492,IoT,78,1
+2493,Project_493,AI,84,1
+2494,Project_494,IoT,78,2
+2495,Project_495,Data Science,81,4
+2496,Project_496,IoT,66,5
+2497,Project_497,Networking,78,1
+2498,Project_498,Networking,86,3
+2499,Project_499,Web Dev,85,2
+2500,Project_500,IoT,76,4
